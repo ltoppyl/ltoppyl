@@ -11,6 +11,9 @@ ltoppyl
   <img src="https://github-readme-stats.vercel.app/api?username=ltoppyl&theme=github_dark&show_icons=true" />
 </a>
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 ---
 **Mainly Tech:**
 <div>
