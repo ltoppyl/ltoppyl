@@ -12,8 +12,8 @@ ltoppyl
 </a>
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/ltoppyl" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.16&b=2.85&i=2.69&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a>  
-Last Updated on 12/25/2022, 1:14:00 AM
+<a href="https://lapras.com/public/ltoppyl" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.16&b=2.85&i=2.7&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a>  
+Last Updated on 12/26/2022, 1:11:25 AM
 <!--END_SECTION:lapras-card-->
 
 ---
