@@ -1,7 +1,6 @@
 # 💫 About Me:
 🎓 I'm currently learning about Deep Learning<br>💻 I'm currently working as a Developer
 
-
 # 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ltoppyl) 
 
@@ -31,5 +30,3 @@
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ltoppyl&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
