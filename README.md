@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm currently learning about Deep Learning<br>💻 I'm currently working as a Developer
+💻 I'm currently working as a Developer
 
 # 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ltoppyl) 
